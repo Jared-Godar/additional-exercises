@@ -37,14 +37,14 @@ Lather, rinse repeat.
 
 List of Exercise Banks with Problem Specifications and
 
-There are hundreds of SQL exercises on https://sqlzoo.net/.
+[SQL Zoo exercises](https://sqlzoo.net/)
 
-SQL Exercises (Easy) on HackerRank
+[SQL Exercises (Easy) on HackerRank](https://www.hackerrank.com/domains/sql?filters%5Bskills%5D%5B%5D=SQL%20%28Basic%29)
 
-Python Exercises (Easy) on HackerRank
+[Python Exercises (Easy) on HackerRank](https://www.hackerrank.com/domains/python?filters%5Bdifficulty%5D%5B%5D=easy)
 
-Python Exercises that start simple and easy on https://codingbat.com/python
+[Codingbat Python Exercises that start simple and easy on](https://codingbat.com/python)
 
-10 Days of Statistics 
+[10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics?filters%5Bsubdomains%5D%5B%5D=10-days-of-statistics&badge_type=10-days-of-statistics)
 
 
